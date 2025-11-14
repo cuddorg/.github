@@ -10,7 +10,7 @@ In 2025, we established a dedicated GitHub organization, @cuddorg, to collaborat
 
 ## Road to Release 4.0
 
-Ongoing development takes place on the `4.0.0` branch aiming to release a new release with build system improvements and layout refactoring without any major change affecting functionality.
+Ongoing development takes place on the [`cuddorg/cudd#4.0.0`](https://github.com/cuddorg/cudd/tree/4.0.0) branch aiming to release a new release with build system improvements and layout refactoring without any major change affecting functionality.
 
 The primary focus, however, is on modernizing the repository layout and build system. The proposed CMake-based workflow is as follows:
 
